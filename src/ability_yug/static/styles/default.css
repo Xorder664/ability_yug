@@ -1,0 +1,90 @@
+.footad {
+	font-size : small;
+	color : #2E8B57;
+}
+BODY { background: #FFFFFF; }
+
+* {color:black;}
+A {text-decoration:none;}
+
+.LOGO * {font-family:Tahoma,Verdana,Arial,sans-serif; font-size:x-large; font-weight:normal;}
+.LOGO A {color:black; font-family:Tahoma,Verdana,Arial,sans-serif; font-size:x-large; font-weight:normal;} /*NN*/
+
+.HEADER {padding-top:3px; padding-left:6px;}
+.HEADER * {color:#2e67ac; font-family:Times New Roman, serif;}
+.HEADER {color:#2e67ac; font-family:Times New Roman, serif;} /*NN*/
+.HEADER A {color:black; font-family:Tahoma,Verdana,Arial,sans-serif; font-size:17px;}
+.HEADER A.SEL {color:#2859e0;}
+.HEADER A.ADMIN {color:white; cursor:default;}
+
+.MENU * {color : #808080; text-transform:lowercase; font-size:medium; font-family:Tahoma,Verdana,Arial,sans-serif;}
+.MENU A {font-size:medium; color:#808080; white-space:pre;}
+.MENU A.SEL {color:#7997eb;}
+
+.HR * {color:#808080;}
+
+.TEXT * {font-family:Times New Roman, serif;}
+.TEXT H1,.TEXT H2,.TEXT H3,.TEXT INPUT,.TEXT TEXTAREA {font-family:Tahoma,Verdana,Arial,sans-serif; font-weight:normal;}
+.TEXT H1 {font-size:x-large; margin-top:-5px; color:#caddf7; font-weight:bold;}
+.TEXT H1.ERR404 {color:#B34769;}
+.TEXT H2 {font-size:15pt;}
+.TEXT H3 {font-weight:bold; margin-bottom:0px; margin-top:6; font-size:medium;}
+.TEXT TABLE {border:none;}
+.TEXT TH,.TEXT TD {border:1px solid White;}
+.TEXT TH {color:white; background-color:#2690D1; text-align:center;}
+// .TEXT TD {background-color:#D6F0FF;}
+.TEXT A {color:#1266B0; font-weight:bold;}
+.TEXT A:HOVER {text-decoration:underline;}
+.TEXT A:VISITED {color:#B34769;}
+
+.TEXT .COUNTER {color:silver; font-size:smaller; font-family:Tahoma,Verdana,Arial,sans-serif;}
+.TEXT .FORM { padding:0px; background-color:white; font-family:Tahoma,Verdana,Arial,sans-serif; font-size:smaller;}
+.TEXT .SUBMIT {background-color:#caddf7; border-color:#caddf7;}
+.TEXT .BLUEBORDER {border-style:solid; border-width:3px; border-color:#caddf7; padding:16px; background-color:white;}
+.TEXT .TDDARK {background-color:#A6CFED;}
+.TEXT .TDLIGHT {background-color: #F0FAFF;}
+.TEXT .TD {background-color:#D6F0FF;}
+.CITE {color:blue; margin-left:20px; font-style:italic;}
+.CITEGRAY {color:gray; font-style:italic;}
+.SPEECH {color:#505050; margin-left:20px; font-style:italic;display:inline}
+.REF {color:gray; margin-left:20px;}
+.EPI, .EPI * {color:#856E4C; margin-bottom:30; font-style:italic; text-align:right; margin-left:10%;}
+.EPI * {margin-left:0%;}
+.LETTER1,.LETTER1 *,.LETTER2,.LETTER2 * {font-family:Times New Roman,serif; color:#49A7DE; margin-left:30px; font-style:italic;}
+.LETTER1 *,.LETTER2 * {margin-left:0px;}
+.HEADER {color:blue;}
+
+TEXTAREA.msg { font-family: Lucida Console, Courier Cyr, Courier; }
+PRE.msg { font-family: Lucida Console, Courier Cyr, Courier New, Courier; font-size: smaller; }
+P.msg { text-align: justify; font-family: Verdana; font-size: smaller; }
+TABLE.atm { background: #808080; }
+TR.atm,TD.atm { background: white; }
+H2,FORM,P.vis { margin: 10px; }
+UL { margin-left: 10px; margin-top: 0px; margin-bottom: 0px; }
+LI { font-size: 14px; }
+
+.reklama {
+	font-size : small;
+	text-decoration : none;
+}
+
+/*
+     FILE ARCHIVED ON 01:57:04 Feb 02, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:45:54 Dec 16, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.533
+  exclusion.robots: 0.019
+  exclusion.robots.policy: 0.007
+  esindex: 0.011
+  cdx.remote: 5.635
+  LoadShardBlock: 221.876 (3)
+  PetaboxLoader3.resolve: 84.628 (4)
+  PetaboxLoader3.datanode: 198.329 (4)
+  load_resource: 102.392
+*/
